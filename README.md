@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://user-images.githubusercontent.com/90895060/146533386-98e9582c-333a-4011-925d-60554f799b5c.png" alt="EDM Dancecoin logo"/>
+<img src="https://user-images.githubusercontent.com/90895060/159165556-86d24ade-5add-4842-a18d-1d3c0b824b79.png" alt="EDM Dancecoin logo"/>
 </div>
 
 # EDM Dancecoin source code
